@@ -15,4 +15,4 @@ Se puede apreciar que los casos con mayor influencia dentro de la red son: La un
 
 Además, cabe recalcar que la Unión Europea, Estados Unidos, China y la India funcionan como aliados clave para la conexión de países que pertenen a sub áreas distintas, tales como el caso de Iraq y Singapur mediante la Unión Europea.
 
-
+![WhatsApp Image 2024-10-01 at 12 57 11 AM](https://github.com/user-attachments/assets/173f545d-7a0d-45e3-a1f1-69641a8f3bd1)
