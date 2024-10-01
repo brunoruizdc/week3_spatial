@@ -19,3 +19,6 @@ Además, cabe recalcar que la Unión Europea, Estados Unidos, China y la India f
 
 RED DE LAS EXPORTACIONES DE MERCANCÍAS DE TODOS LOS PAÍSES:
 ![WhatsApp Image 2024-10-01 at 12 57 11 AM](https://github.com/user-attachments/assets/173f545d-7a0d-45e3-a1f1-69641a8f3bd1)
+
+IMPORTANCIA DE CADA PAÍS SEGUN INDICADORES DEGREE Y CLOSENESS:
+![WhatsApp Image 2024-10-01 at 1 02 51 AM](https://github.com/user-attachments/assets/322cffe5-aee3-467f-a857-f72c2174ee31)
